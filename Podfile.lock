@@ -1,0 +1,38 @@
+PODS:
+  - CocoaLumberjack (2.0.3):
+    - CocoaLumberjack/Default (= 2.0.3)
+    - CocoaLumberjack/Extensions (= 2.0.3)
+  - CocoaLumberjack/Core (2.0.3)
+  - CocoaLumberjack/Default (2.0.3):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.0.3):
+    - CocoaLumberjack/Default
+  - DZNEmptyDataSet (1.7.2)
+  - FreeStreamer (2.14.3):
+    - Reachability (~> 3.0)
+  - KSToastView (0.5.6)
+  - Masonry (0.6.3)
+  - MBProgressHUD (0.9.1)
+  - MJRefresh (2.4.12)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - CocoaLumberjack (~> 2.0.1)
+  - DZNEmptyDataSet (~> 1.7.1)
+  - FreeStreamer (~> 2.14.3)
+  - KSToastView (~> 0.5.3)
+  - Masonry (~> 0.6.2)
+  - MBProgressHUD (~> 0.9.1)
+  - MJRefresh (~> 2.4.7)
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: f58d8a19629f4d8379ae14bb3534def24161430e
+  DZNEmptyDataSet: 0ec00bfc230d7450997b60c127afdd0b9f24f3b6
+  FreeStreamer: 915663df0f3ab3ac3f4474af6d5d3530c72b1ef6
+  KSToastView: 6c6044f1e8d8a7bb5ba098886421062eabba0478
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJRefresh: ca8e9589895977df32d379d46e6b8a5450b3ff44
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+COCOAPODS: 0.38.2
